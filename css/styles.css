@@ -426,6 +426,7 @@ ol {
   background-color: var(--blue-color);
   color: var(--white-color);
   cursor: pointer;
+  border-color: transparent;
 }
 
 .list-btn .btn-filter.current {
