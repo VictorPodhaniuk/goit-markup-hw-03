@@ -245,8 +245,9 @@ ol {
 
 .hero-btn:hover,
 .hero-btn:focus {
-  border-color: transparent;
+  background-color: var(--accent-btn-background-color);
   cursor: pointer;
+  border-color: transparent;
 }
 
 .hero-btn {
@@ -258,8 +259,9 @@ ol {
 
   height: 50px;
   width: 216px;
+  
   border-radius: 4px;
-  border-color: var(--blue-color);
+  border-color: transparent;
   font-family: inherit;
   font-weight: 700;
   font-size: 16px;
